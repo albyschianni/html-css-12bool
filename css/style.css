@@ -1,0 +1,9 @@
+[class*="col"] {
+    background-color: #006cfa;
+    border: 1px solid white;
+    min-height: 50px;
+}
+
+.space {
+    min-height: 10px;
+}
