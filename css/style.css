@@ -7,3 +7,15 @@
 .space {
     min-height: 10px;
 }
+.testo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.green {
+    background-color: rgb(3, 175, 3);
+}
+.margin {
+    margin: 10px;
+}
